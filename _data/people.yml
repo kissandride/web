@@ -1,14 +1,14 @@
 families:
   - pic: rutherfords.png
-    name: The Rutherfords
-    people: Mark, Marilyn, and Kaitlyn
+    name: Svedek
+    people: Vaclav Havlicek
   - pic: cordinas.png
-    name: The Cordinas
-    people: Anthony, Debra, Victoria, Christina, and Jessica
+    name: Svedkyne
+    people: Tereza Lungova
 kids:
   - pic: daisy.png
-    name: Daisy
-    role: Flower Girl
+    name: Janula12
+    role: Wedding manager
   # - pic: oliver.png
   #   name: Oliver
   #   role: Ring Bearer

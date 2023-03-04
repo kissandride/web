@@ -1,6 +1,6 @@
-- name: Wedding Shower
-  date: Thursday, May 26, 2016
-  time: 7pm
+- name: Odpýtanie nevesty
+  date: 17.6.2023 
+  time: 1pm
   attire: Casual
   description: We have decided to not have a gender-specific wedding shower, but instead have an inclusive pre-wedding party for all guests and family members to celebrate our upcoming nuptials. Join us for our brunch shower to help us get our wedding season started! Parking will be plentiful at the restaurant. If you are interested in bringing a gift, our registries are linked on the site!
   transportation:
@@ -33,7 +33,7 @@
     venue_name:
   calendar_description: We can't wait to see you on the day of the wedding. For any questions or issues, contact Nathan Orick.
 
-- name: Reception
+- name: Hostina
   date_alt: Immediately following the ceremony
   attire: snappy casual
   description: The wedding reception is at the same venue as the ceremony and will commence directly after the ceremony ends. Venue staff will direct you to the reception space. Dinner will be provided and make sure to bring your dancing shoes!

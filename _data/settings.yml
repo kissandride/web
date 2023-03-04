@@ -8,7 +8,8 @@ hero_position: center center
 theme:
   # text_color: '#404040'
   primary_color: '#5F8575'
-  secondary_color: '#C46931'
+  #secondary_color: '#C46931'
+  secondary_color: '#ffff'
   # accent_color: '#afa63d'
   # background_color: '#ffff'
 

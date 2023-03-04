@@ -5,6 +5,7 @@ image_position: bottom
 ---
 ### Stáale spolu
 
+Miluju svojeho Raduška!
 Then Nikita got into medical school – in Chicago.  Chris, being
 the true Californian that he is, barely knew where Chicago was.
 So when Nikita suggested they continue their relationship
