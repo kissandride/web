@@ -1,48 +1,45 @@
 - name: Odpýtanie nevesty
-  date: 17.6.2023 
+  date_alt: 17.6.2023 - 13:00
   time: 1pm
-  attire: Casual
-  description: We have decided to not have a gender-specific wedding shower, but instead have an inclusive pre-wedding party for all guests and family members to celebrate our upcoming nuptials. Join us for our brunch shower to help us get our wedding season started! Parking will be plentiful at the restaurant. If you are interested in bringing a gift, our registries are linked on the site!
+  attire: Cocktail
+  description: Stretneme sa pred domom nevesty v Kyjove na Ruzove...
   transportation:
   location:
-    address: 640 Pansy Hill Rd
-    city: Harriman
-    state: TN
-    long_state: Tennessee
-    zip: 37748
-    coordinates: 41.911652,-87.641253
-    google_maps_url: https://www.google.com/maps/place/St+Michael+in+Old+Town/@41.912635,-87.6408956,15z/data=!4m2!3m1!1s0x0:0xe227f2c7eb743c04
-    venue_name:
+    address: Růžová 1234
+    city: Kyjov
+    state: CZ
+    long_state: Česká republika
+    zip: 69701
+    coordinates: 49.01465343536572, 17.131038746553454
+    google_maps_url: https://goo.gl/maps/NUQFxxpY5mt648Eu9
+    venue_name: Dom nevesty
 
 - name: Obrad
   main_event: true
-  date: 2023-06-17 15:00:00 +1:00
-  endDate: 2023-06-17 16:00:00 +1:00
-  attire: snappy casual
-  description: Our wedding ceremony will be the perfect blend of our separate Catholic and Baptist traditions. Please arrive at least 10 minutes prior to the start of the ceremony in order to find your seat. There will be a parking attendant on site to direct you, and the venue will also provide transportation to the ceremony site if needed. We ask that you please ensure that your cell phones are off and out of sight for the duration of the ceremony.
-  transportation:
-  shuttle:
+  date_alt: 17.6.2023 - 15:00
+  attire: Cocktail
+  description: Svadba bude v katolickom kostole...
   location:
-    address: 640 Pansy Hill Rd
-    city: Ratiškovice
-    state: TN
+    address: Vítězná 229
+    city: Ratíškovice
+    state: CZ
+    zip: 69602
     long_state: Česká republika
-    zip: 37748
-    coordinates: 41.911652,-87.641253
-    google_maps_url: https://www.google.com/maps/place/St+Michael+in+Old+Town/@41.912635,-87.6408956,15z/data=!4m2!3m1!1s0x0:0xe227f2c7eb743c04
-    venue_name:
+    coordinates: 48.923135601514595, 17.159883857605383
+    google_maps_url: https://goo.gl/maps/EL5aAQqYdaMADUeH9
+    venue_name: Kostel sv. Cyrila a Metoděje
   calendar_description: We can't wait to see you on the day of the wedding. For any questions or issues, contact Nathan Orick.
 
 - name: Hostina
-  date_alt: Immediately following the ceremony
+  date_alt: Hneď po obrade
   attire: snappy casual
-  description: The wedding reception is at the same venue as the ceremony and will commence directly after the ceremony ends. Venue staff will direct you to the reception space. Dinner will be provided and make sure to bring your dancing shoes!
+  description: Po obrade sa presunieme na miesto hostiny do spolkoveho domu...
   location:
-    address: 640 Pansy Hill Rd
-    city: Harriman
-    state: TN
-    long_state: Tennessee
-    zip: 37748
-    coordinates: 41.911652,-87.641253
-    google_maps_url: https://www.google.com/maps/place/St+Michael+in+Old+Town/@41.912635,-87.6408956,15z/data=!4m2!3m1!1s0x0:0xe227f2c7eb743c04
-    venue_name:
+    address: Sportovní 630
+    city: Ratíškovice
+    state: CZ
+    long_state: Česká republika
+    zip: 69602
+    coordinates: 48.916848909426314, 17.1645247255
+    google_maps_url: https://goo.gl/maps/MZmGL9Kjfq2ZSN4m9
+    venue_name: Spolkový dům Ratíškovice

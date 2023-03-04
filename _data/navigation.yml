@@ -1,12 +1,10 @@
 - name: Náš příběh
   link: /#ourstory
-- name: Svatba
+- name: Harmonogram
   link: /celebrations
 - name: Lidé
   link: /people
 - name: FAQ
   link: /faq
-- name: Fotky
-  link: /photo-gallery
 - name: Potvrďte účast
   link: http://127.0.0.1:4005 # todo change to g-form

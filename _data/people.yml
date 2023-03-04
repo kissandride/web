@@ -1,23 +1,23 @@
 families:
-  - pic: rutherfords.png
-    name: Svedek
-    people: Vaclav Havlicek
-  - pic: cordinas.png
+  - pic: kacka.JPG
+    name:  Nevesta
+    people:  Katerina
+  - pic: rado.jpg
+    name: Zenich
+    people: Radoslav
+kids:
+  - pic: terka_flower.jpeg
     name: Svedkyne
     people: Tereza Lungova
-kids:
-  - pic: daisy.png
-    name: Janula12
-    role: Wedding manager
-  # - pic: oliver.png
-  #   name: Oliver
-  #   role: Ring Bearer
-  #   position: top
-# her_side:
-#   - name: Victoria Cordina
-#     pic: vicky.jpg
-#     role: Bridesmaid
-#     description: Rebecca's Sister
+  - pic: vasek1.jpeg
+    name: Svedek
+    people: Vaclav Havlicek
+    position: top
+her_side:
+  - name: Janula
+    pic: janula12.jpeg
+    role: Bridesmaid
+    description: Rebecca's Sister
 #   - name: Sarah Orick
 #     pic: sarah.jpg
 #     role: Bridesmaid
@@ -30,11 +30,11 @@ kids:
 #     pic: kaitlyn.jpg
 #     role: Bridesmaid
 #     description: Ryan's Sister
-# his_side:
-#   - name: Nathan Orick
-#     pic: nathan.jpg
-#     role: Best Man
-#     description: Ryan's Cousin
+his_side:
+  - name: Nathan Orick
+    pic: nathan.jpg
+    role: Best Man
+    description: Ryan's Cousin
 #   - name: Garrett Orick
 #     pic: garrett.jpg
 #     role: Groomsman

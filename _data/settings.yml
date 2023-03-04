@@ -9,9 +9,9 @@ theme:
   # text_color: '#404040'
   primary_color: '#5F8575'
   #secondary_color: '#C46931'
-  secondary_color: '#ffff'
+  secondary_color: '#89ab9c'
   # accent_color: '#afa63d'
-  # background_color: '#ffff'
+  background_color: '#ffff'
 
 rsvp:
   use_code: true
@@ -36,9 +36,11 @@ rsvp:
   leave_a_message_text: Leave a message for the bride and groom.
 
 people:
-  families_header: Svědci 
-  families_text: Naši svedkovia su ....
-  kids_header: Wedding manager
-  kids_text: Ak mate akekolvek otazky k organizacii kontaktujte janulu12...
-  his_side: null
-  her_side: False
+  families_header: Novomanželé
+  families_text: O nas ....
+  kids_header: Svědci 
+  kids_text: Naši svedkovia su ....
+  wedding_party_header: Wedding manager
+  wedding_party_text: Ak mate akekolvek otazky k organizacii kontaktujte janulu12...
+  # his_side: null
+  # her_side: False
