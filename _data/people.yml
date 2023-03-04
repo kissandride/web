@@ -9,41 +9,41 @@ kids:
   - pic: daisy.png
     name: Daisy
     role: Flower Girl
-  - pic: oliver.png
-    name: Oliver
-    role: Ring Bearer
-    position: top
-her_side:
-  - name: Victoria Cordina
-    pic: vicky.jpg
-    role: Bridesmaid
-    description: Rebecca's Sister
-  - name: Sarah Orick
-    pic: sarah.jpg
-    role: Bridesmaid
-    description: Rebecca's Best Friend
-  - name: Jamee Cox
-    pic: jamee.jpg
-    role: Bridesmaid
-    description: Rebecca's Friend
-  - name: Kaitlyn Rutherford
-    pic: kaitlyn.jpg
-    role: Bridesmaid
-    description: Ryan's Sister
-his_side:
-  - name: Nathan Orick
-    pic: nathan.jpg
-    role: Best Man
-    description: Ryan's Cousin
-  - name: Garrett Orick
-    pic: garrett.jpg
-    role: Groomsman
-    description: Ryan's Cousin
-  - name: Logan Byrge
-    pic: byrge.jpg
-    role: Groomsman
-    description: Ryan's High School Friend
-  - name: Logan Ivey
-    pic: ivey.jpg
-    role: Groomsman
-    description: Ryan's High School Friend
+  # - pic: oliver.png
+  #   name: Oliver
+  #   role: Ring Bearer
+  #   position: top
+# her_side:
+#   - name: Victoria Cordina
+#     pic: vicky.jpg
+#     role: Bridesmaid
+#     description: Rebecca's Sister
+#   - name: Sarah Orick
+#     pic: sarah.jpg
+#     role: Bridesmaid
+#     description: Rebecca's Best Friend
+#   - name: Jamee Cox
+#     pic: jamee.jpg
+#     role: Bridesmaid
+#     description: Rebecca's Friend
+#   - name: Kaitlyn Rutherford
+#     pic: kaitlyn.jpg
+#     role: Bridesmaid
+#     description: Ryan's Sister
+# his_side:
+#   - name: Nathan Orick
+#     pic: nathan.jpg
+#     role: Best Man
+#     description: Ryan's Cousin
+#   - name: Garrett Orick
+#     pic: garrett.jpg
+#     role: Groomsman
+#     description: Ryan's Cousin
+#   - name: Logan Byrge
+#     pic: byrge.jpg
+#     role: Groomsman
+#     description: Ryan's High School Friend
+#   - name: Logan Ivey
+#     pic: ivey.jpg
+#     role: Groomsman
+#     description: Ryan's High School Friend

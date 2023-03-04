@@ -1,9 +1,9 @@
 ---
 order: 1
-image: assets/img/chairs.jpg
+image: assets/img/christiania.jpeg
 image_position: bottom
 ---
-### The college years
+### Brazilia
 
 As they progressed through their college years, Chris studying
 computer science and Nikita the Classics, they grew up together.

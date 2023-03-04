@@ -1,9 +1,9 @@
 ---
 order: 2
-image: assets/img/bell.jpg
+image: assets/img/paodeacucar.jpeg
 image_position: bottom
 ---
-### The big move
+### Stáale spolu
 
 Then Nikita got into medical school – in Chicago.  Chris, being
 the true Californian that he is, barely knew where Chicago was.

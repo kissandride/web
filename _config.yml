@@ -1,9 +1,9 @@
 # Site settings
 theme: jekyll-theme-easy-wedding
-title: Rebecca & Ryan
+title: Kateřina & Rado
 email: nathan@nathanorick.com
 url: http://127.0.0.1:4005 # Be sure to include http:// or https://
-description: "We're getting married and can't wait to celebrate with you!"
+description: "Bereme se a chceme to oslavit s tebou!"
 baseurl: ""
 
 collections:
