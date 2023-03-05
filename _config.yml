@@ -28,3 +28,6 @@ exclude:
   - _compress_images_cache.yml
 
 show_footer: False
+
+plugins:
+  - jekyll-remote-theme
