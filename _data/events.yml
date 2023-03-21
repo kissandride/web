@@ -14,7 +14,7 @@
     google_maps_url: https://goo.gl/maps/NUQFxxpY5mt648Eu9
     venue_name: Dům nevěsty
 
-- name: Obrad
+- name: Obřad
   main_event: true
   date_alt: 17.6.2023 - 15:00
   attire: Cocktail
@@ -30,8 +30,8 @@
     venue_name: Kostel sv. Cyrila a Metoděje
   calendar_description: We can't wait to see you on the day of the wedding. For any questions or issues, contact Nathan Orick.
 
-- name: Hostina
-  date_alt: Hneď po obrade
+- name: Svatební hostina
+  date_alt: Hned po obřadě
   attire: snappy casual
   description: Po obřadě a gratulacích se odebereme ke spolkovému domu, kde proběhne svatební hostina. Řidiči budou mít možnost odvozu svých aut k hotelu. 
   location:
