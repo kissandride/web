@@ -1,23 +1,23 @@
 families:
   - pic: kacka.JPG
-    name:  Nevesta
-    people:  Katerina
+    name:  Nevěsta
+    people:  Kateřina
   - pic: rado.jpg
-    name: Zenich
+    name: Ženich
     people: Radoslav
 kids:
   - pic: terka_flower.jpeg
-    name: Svedkyne
-    people: Tereza Lungova
+    name: Svědkyně
+    people: Tereza Lungová
   - pic: vasek1.jpeg
-    name: Svedek
-    people: Vaclav Havlicek
+    name: Svědek
+    people: Václav Havlíček
     position: top
 her_side:
   - name: Janula
     pic: janula12.jpeg
-    role: Bridesmaid
-    description: Rebecca's Sister
+    role: Wedding manager
+    # description: Rebecca's Sister
 #   - name: Sarah Orick
 #     pic: sarah.jpg
 #     role: Bridesmaid
@@ -31,10 +31,10 @@ her_side:
 #     role: Bridesmaid
 #     description: Ryan's Sister
 his_side:
-  - name: Nathan Orick
-    pic: nathan.jpg
-    role: Best Man
-    description: Ryan's Cousin
+  # - name: Contact
+  - pic: card.jpeg
+    # role: Best Man
+    # description: Ryan's Cousin
 #   - name: Garrett Orick
 #     pic: garrett.jpg
 #     role: Groomsman

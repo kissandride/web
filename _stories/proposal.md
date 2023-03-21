@@ -3,25 +3,7 @@ order: 3
 image: assets/img/proposal.jpg
 image_position: bottom
 ---
-### The proposal
+### Žiadosť o ruku
 
-Chris decided he wanted to propose to Nikita soon after he moved
-to Chicago.  He decided to propose where their relationship began
-– at their 5-year Stanford reunion. With the help of his parents,
-he chose a ring on a family trip to Hong Kong and hid it in his
-closet for months. He coordinated with Nikita’s girlfriends to
-come up with the perfect proposal. True to form, Nikita repeatedly
-changed her plans that weekend, forcing Chris to adjust and
-re-adjust his proposal. On the final morning of reunion weekend,
-Nikita set out on foot to meet a friend at the Oval to take some
-engagement pictures for her and her new fiancé (the latest ruse).
-Little did she know that her friends were waiting around the
-corner to whisk Chris over to the Oval by car.  Nikita obliviously
-walked to the Oval, where she found Chris waiting for her.  Chris
-nervously rushed through his speech, maneuvering Nikita around the
-crowd of tourists that had suddenly appeared, and got down on one
-knee. Nikita started blubbering, but made sure to say an audible
-“yes” before he slipped the ring on her finger.  Nikita’s friends
-poured out of their cars, where they had been surreptitiously
-recording the whole event on their phones. And, just like that,
-they started the countdown to #BacligVashi2016.
+Rado si uvedomil, že chce požiadať Kačku o ruku chvíľu po návrate z dovolenky v Brazílii. V septembri 2022 započal prípravu na onen dôležitý deň hľadaním správneho miesta a času. Najprv premýšľal nad víkendom v zahraničí, ale potom sa rozhodol, že najlepšie to bude niekde blízko Brna na Južnej Morave. Výber padol na vinárske mesto Znojmo a začal sa výber termínu. Prvý vybraný termín bol ešte pred Vianocami, ale bohužiaľ v momente kúpy ubytovania na tento dátum dostal od Kačky správu, že má vtedy Vianočné posedenie s kamarátkami. Voľba, teda padla na januárový dátum a z víkendov sa najlepšie javil 20-22.1. Dátum bol, teda určený a mohol začať hľadať prsteň, ktorý by najlepšie sadol na jej prst. Po strastiplnej ceste výberu našiel ten správny. Napriek skorému výberu, prsteň nakoniec prišiel až pár hodín pred cestou do Znojma, a tak vedel, že bude nutné improvizovať. Pri sobotnej prechádzke v čerstvo zasneženom Znojme prvý pokus na vyhliadke prekazili turisti, ktorí sa na mieste objavili presne v čase, keď už Rado nabral odvahu pokľaknúť. Muselo sa, teda pokračovať ďalej v improvizácii hľadania ideálneho miesta. Prechádzka sa, teda o pár kilometrov predĺžila až na ďalšiu vyhliadku, kde po uistený, že v okolí nevidí nikoho, kto by tento moment vedel prerušiť, pokľakol a požiadal Kačku o ruku. Tá sa v tom momente sústredila iba, aby zvládla odpovedať ÁNO, a preto si ani nepamätá, ako presne znela otázka žiadosti. Prsteň bol na ruke a prekonal všetky Kačkine očakávania. A tým momentom začala cesta ku očakávanému dňu, ktorým je 17.6.2023.
+

@@ -5,12 +5,8 @@ Uses [Jekyll](https://jekyllrb.com/) hosted on [GitHub Pages](https://pages.gith
 Ruby and rubygems already installed:
 
     gem install bundler
-    bundle
+    bundle install
 
 # Development 
 
-To start a local server: `jekyll serve`
-
-# Deploying
-
-    ./script/deploy.sh
+To start a local server: `bundle exec jekyll serve -P 4005 --trace`

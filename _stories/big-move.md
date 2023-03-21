@@ -3,19 +3,6 @@ order: 2
 image: assets/img/paodeacucar.jpeg
 image_position: bottom
 ---
-### Stáale spolu
+### A co dál?
 
-Miluju svojeho Raduška!
-Then Nikita got into medical school – in Chicago.  Chris, being
-the true Californian that he is, barely knew where Chicago was.
-So when Nikita suggested they continue their relationship
-long-distance, he unknowingly acquiesced.  How hard could it be?
-He soon discovered that Chicago was indeed a great distance away,
-but neither the distance (nor the cold) stopped him from visiting
-Nikita as she buried herself in medical school at UIC. After 2½
-years of flying back and forth (oh the miles!), Chris finally took
-the plunge and moved to Chicago to be with his girl.  Slowly but
-surely, they built a life together in Chicago – exploring the
-city’s amazing restaurants, running through Millenium Park, and
-investing in Chris’ first winter coat. Soon enough, Chicago felt
-like a second home.
+Během našeho vztahu jsme už toho stihli spoustu zažít. Necelý měsíc od seznámení jsme odjeli na čtyřdenní výlet do Rakouska. Byla to první zkouška našeho začínajícího vztahu a zvládli jsme ji! První společné léto jsme se snažili vyplnit různými aktivitami, třeba výlety na kole, boulder, vycházky a další randíčka. Po prázdninách Kačka začala svůj poslední ročník na vysoké škole a Rado se tak mohl věnovat o něco více své práci. Co stojí určitě za zmínku, tak to že jsme absolvovali lekce Slovenského lidového tance z Telgártu, což bylo pro Rada velké vystoupení z jeho komforní zóny. Těsně před státnicemi Kačky jsme se vydali na návštěvu ke kamarádce Magdě do Dánska na víkend, kde jsme si to všechno parádně užili. Na jeden z těch dní oba vzpomínáme často a patří to mezi naše nejlepší vzpomínky. Byl to den, kdy jsme si půjčili kola a pojeli skoro celou Kodaň. Po promocích Kačky, nás čekala největší společná cesta. Cesta do Brazílie. Tam jsme strávili 3 týdny společně s Radovou kamarádkou Carol, její rodinou a kamarády. Procestovali jsme část brazilského státu Rio de Janeiro. A mimochodem, Carol nám přijede i svatbu! Po návratu z Brazílie jsme si užili poslední dny prázdnin a potom pro Kačku začala tvrdá realita a 1.9. nastoupila do práce. Během tohoto období už se rodila myšlenka o žádosti o ruku, o tom se ale více dozvíte níže.

@@ -3,18 +3,6 @@ order: 1
 image: assets/img/christiania.jpeg
 image_position: bottom
 ---
-### Brazilia
+### Seznámení
 
-As they progressed through their college years, Chris studying
-computer science and Nikita the Classics, they grew up together.
-They reveled in their mutual silliness, embraced each others’
-friends as their own, and danced late into the night at parties
-Chris would DJ.  They faced the typical challenges – Nikita
-studying abroad in Athens, Chris working long hours on
-computer-sciencey projects - but they found that facing them
-together was more fun than going at it alone. By graduation,
-they were inseparable. After getting their diplomas, Chris dove
-into the startup world of Silicon Valley while Nikita finally
-faced the fact that she could no longer rebel against her dreams
-to be a doctor.  They lived happily side-by-side and explored the
-Bay Area, which they both came to love.  All was well.
+Naše seznámení označujeme oba jako osudové, protože stačilo opravdu málo, abychom se nikdy nepoznali. Bylo 2.7.2021 a u Radových kamarádů probíhala kolaudačka resp. dekoloudačka bytu v Brně. Zároveň na tom bytě bydleli i kamarádi Kačky, které znala ze slovenského folklorního souboru v Brně, kam během studia v Brně chodila. No a proč to teda bylo tak osudové? Kačka těsně před kolaudačkou byla na running sushi (mimochodem teď už se svojí svědkyní a naší wedding manažerkou), kde se přejedla tak, že nemohla skoro chodit, takže se ji tam vůbec nechtělo a vypadalo to, že na akci vůbec nedorazí. Nakonec se přemohla a dorazila. Rado dorazil na akci kolem deváté hodiny a proběhlo jen rychlé seznámení. Do řeči jsme se dostali až po půlnoci, kdy se Rado došel zeptat na otázku “Aký je tvoj ciel života?”. Tuto otázku za ten večer podal snad každému, ale jediná Kačka se snažila odpovědět vážně, což si stejně Rado nepamatuje. Poté jsme se zase začali bavit s jinými skupinkami a Kačka už se chystala domů. Nakonec okolí bylo silnější a přemluvili ji, ať ještě chvilku zůstane, a tak kolem čtvrté hodiny ranní jsme se znovu setkali. To už Rado moderoval vtipný příběh jeho kamaráda a mezi tím jsme si předávali jeden krýgl s vodou a magnézkém, takže první interakce! Jelikož jsme bydleli na stejné trase šaliny, po párty jsme jeli stejným spojem. Slovo dalo slovo a Rado si řekl o kontakt, šok pro Kačku, že to nebyla žádná sociální síť, ale telefonní číslo. Nakonec jsem si našli rychle záminku se potkat a 7.7.2021 proběhlo naše první rande. A zbytek je už historie. 

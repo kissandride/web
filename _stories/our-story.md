@@ -1,19 +1,8 @@
 ---
 order: 0
 ---
-## Our Story
+## KISS AND RIDE (K+R)
 
-Chris was a Southern California boy who ran cross-country, attended
-an all-boys Catholic high school (shenanigans ensued), and
-perfected his image as the “chill smart guy”.  Nikita was a
-Midwestern girl, a dancer, musician, and hopeful writer who
-embodied every stereotype of the over-achiever.  A pair of
-acceptance letters brought them together to that special place
-between the foothills and the bay – Stanford University.  But they
-didn’t meet until nearly a year later, when Nikita’s Indian
-dance co-captain and Chris’ then-roommate introduced them. Love
-at first sight it was not, but after a rocky start Chris
-realized that this girl was too special to let go.  Nikita,
-being the precocious person she is, had long since come to the
-same conclusion. They happily embarked on the adventure known
-commonly as The College Relationship.
+Proč Kiss and ride? Je to odkaz na kombinaci našich iniciál K+R, která se používá na [dopravních značkách](https://cs.wikipedia.org/wiki/K%2BR). Našli jsme v ní svůj vlastní význam. Dáme si první novomanželský polibek a pak začne naše společná jízda životem.
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/CZ-IP13e_Parkovi%C5%A1t%C4%9B_K_%2B_R.jpg/170px-CZ-IP13e_Parkovi%C5%A1t%C4%9B_K_%2B_R.jpg" alt="K + R značka" style="height: 100px; width:100px;"/>

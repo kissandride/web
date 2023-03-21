@@ -2,7 +2,7 @@
   date_alt: 17.6.2023 - 13:00
   time: 1pm
   attire: Cocktail
-  description: Stretneme sa pred domom nevesty v Kyjove na Ruzove...
+  description: Akce určená pouze pro rodinu a svědky. U domu něvěsty lze pohodlně zaparkovat na ulici před domem. Ženich přijede k domu nevěsty ve 13:00. U nevěsty bude nachystáno občerstvení. A během odpýtanie nevěsty proběhne výzdoba aut. Po odpýtanie nevěsty se poskládáme do aut a pojedeme do Ratíškovic ke kostelu, kde proběhne obřad 
   transportation:
   location:
     address: Růžová 1234
@@ -12,13 +12,13 @@
     zip: 69701
     coordinates: 49.01465343536572, 17.131038746553454
     google_maps_url: https://goo.gl/maps/NUQFxxpY5mt648Eu9
-    venue_name: Dom nevesty
+    venue_name: Dům nevěsty
 
 - name: Obrad
   main_event: true
   date_alt: 17.6.2023 - 15:00
   attire: Cocktail
-  description: Svadba bude v katolickom kostole...
+  description: Obřad se bude konat v katolickém kostele. Začátek mše začíná v 15:00, ale prosíme o dřívější příjezd ke kostelu. V blízkosti kostela je možné parkovat. Velké parkoviště se nachází téměř naproti kostelu u školy.
   location:
     address: Vítězná 229
     city: Ratíškovice
@@ -33,7 +33,7 @@
 - name: Hostina
   date_alt: Hneď po obrade
   attire: snappy casual
-  description: Po obrade sa presunieme na miesto hostiny do spolkoveho domu...
+  description: Po obřadě a gratulacích se odebereme ke spolkovému domu, kde proběhne svatební hostina. Řidiči budou mít možnost odvozu svých aut k hotelu. 
   location:
     address: Sportovní 630
     city: Ratíškovice

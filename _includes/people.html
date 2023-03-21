@@ -57,6 +57,9 @@
 {% if site.data.people.his_side and site.data.people.her_side %}
   <section class="container content-section text-center">
     <h2>{{ site.data.settings.people.wedding_party_header }}</h2>
+    <p>
+      {{ site.data.settings.people.wedding_party_text }}
+    </p>
 
     <div class="people-grid">
     {% for her in site.data.people.her_side %}
